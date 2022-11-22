@@ -1,2 +1,2 @@
 # Tabela
-Uma Tabela: Tipo excel
+Tipo excel
